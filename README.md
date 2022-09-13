@@ -1,9 +1,5 @@
-# React TypeScript Starter Pack
+React-app-with-api
 
-To use this template click `Use this template`
+ Technologies used: JS, React, TypeScript, Sass, HTML, BEM
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+-[DEMO LINK](https://dashasm.github.io/react-app-with-api/)
